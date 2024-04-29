@@ -1,0 +1,14 @@
+.socialMediaBox {
+    width: 40px;
+    height: 184px;
+    .sociaIconBox {
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        border: 1px solid #E8E8E8;
+    }
+}
+
